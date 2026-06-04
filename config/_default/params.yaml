@@ -6,7 +6,7 @@ hugoblox:
     tagline: 任务规划与智能决策的研究成果分享。
     description: 任务规划与智能决策的研究成果的详细分享。
   theme:
-    mode: system
+    mode: dark
     pack: minimal
     colors:
       primary: ""
