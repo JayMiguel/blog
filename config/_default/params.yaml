@@ -42,7 +42,7 @@ hugoblox:
     enable: true
   comments:
     enable: true
-    engine: giscus
+    provider: giscus
     giscus:
       repo: "JayMiguel/blog"
       repo_id: "R_kgDOSvry1g"
