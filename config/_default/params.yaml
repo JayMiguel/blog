@@ -43,3 +43,8 @@ hugoblox:
   comments:
     enable: true
     engine: giscus
+    giscus:
+      repo: "JayMiguel/blog"
+      repo_id: "R_kgDOSvry1g"
+      category: "Announcements"
+      category_id: "DIC_kwDOSvry1s4C-aJJ"
