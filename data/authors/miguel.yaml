@@ -1,0 +1,15 @@
+title: Miguel
+
+role: 资深研究员
+
+organizations:
+  - name: 中山大学
+  - url: https://ssse.sysu.edu.cn/
+
+bio: 研究方向包括人工智能和数据科学。
+
+social:
+  - icon: envelope
+    link: mailto:miguel@example.com
+  - icon: github
+    link: https://github.com/alice

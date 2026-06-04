@@ -1,0 +1,15 @@
+title: Conan
+
+role: 高级研究员
+
+organizations:
+  - name: 中山大学
+  - url: https://ssse.sysu.edu.cn/
+
+bio: 研究方向大数据分析和云计算。
+
+social:
+  - icon: envelop
+    link: mailto:conan@example.com
+  - icon: github
+    link: https://github.com/Conan

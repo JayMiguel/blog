@@ -1,7 +1,7 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: 任务规划与智能决策实验室
+    name: 中山大学 任务规划与智能决策实验室
     type: organization
     tagline: 任务规划与智能决策的研究成果分享。
     description: 任务规划与智能决策的研究成果的详细分享。
