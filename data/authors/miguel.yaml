@@ -1,0 +1,8 @@
+"schema": "hugoblox/author/v1"
+"slug": "miguel"
+"name":
+  "display": "Miguel Pan"
+"role": "资深研究员"
+"bio": "Miguel 的研究方向包括人工智能和数据科学。"
+"affiliations":
+  - "name": "中山大学"
