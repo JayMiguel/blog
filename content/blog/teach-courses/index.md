@@ -4,14 +4,15 @@ summary: Embed videos, podcasts, code, LaTeX math, and even test students!
 date: 2023-10-24
 math: true
 authors:
-  - Miguel
+  - miguel
 tags:
   - Hugo
   - HugoBlox Kit
   - Markdown
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: Embed rich media such as videos and LaTeX math
 ---
+
 
 [HugoBlox Kit](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.
 
